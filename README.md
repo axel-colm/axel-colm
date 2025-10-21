@@ -7,7 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-2ea44f?style=flat&logo=google-chrome&logoColor=white)](https://portfolio.axelcolmant.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-colmant-9853b4201)
-[![Google Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)]([https://scholar.google.com/](https://scholar.google.com/citations?user=qPc-dqMAAAAJ))
+[![Google Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=qPc-dqMAAAAJ)
 
 
 </div>
